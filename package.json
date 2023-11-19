@@ -1,0 +1,16 @@
+{
+  "name": "API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Decentralex-ETH-Istanbul/API.git",
+  "author": "Aleksandre Tsetskhladze <atsetsoffc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
